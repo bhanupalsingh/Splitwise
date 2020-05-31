@@ -1,0 +1,24 @@
+1) user should be able to add expense.
+2) user can pay for others and the amount should be splitted amongst the friend.
+3) Splitting can be
+	-Equally 
+		-check - sum should be equal to the total amount
+		- Recurring decimal issue
+	-Unequally
+		-Exact amount
+			- check - sum should be equal to total
+		-Percentage
+			- check - sum should be 100%
+			- Recurring decimal issue
+4) Expense details including name,date,addedBy, image , location , category.
+5) User should be able to see past expense
+6) user should be able to see his balance.
+7) user should be able to settle his balance with a friend
+
+
+7) user should be able to create group.
+8) Expense can  be either of a group or individual.
+9) Simplify balances
+
+
+Entity :- user , expense ,  
